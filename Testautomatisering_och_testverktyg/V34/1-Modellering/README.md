@@ -1,3 +1,7 @@
+## Notis: 
+- Upgift 1 - klar
+- Upgift 2 - ej klar eller pushat än (troligen klar ikväll)
+
 # Activity Management System
 
 Detta projekt beskriver ett system för att hantera personer, aktiviteter, registreringar och uthyrning av utrustning.
