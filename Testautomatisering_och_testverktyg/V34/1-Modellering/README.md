@@ -1,5 +1,8 @@
 ## Notis: 
 - Upgift 1 - klar
+  - Veckouppgift1.dia - ritat med DIA
+  - Veckouppgift1.pdf - README i pdf
+  - Veckouppgift1.png - export av dia-file till png
 - Upgift 2 - ej klar eller pushat än (troligen klar ikväll)
 
 # Activity Management System
